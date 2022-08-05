@@ -1,7 +1,5 @@
-# php-calendar
-PHP Calendar Script
-
-[![Github All Releases](https://img.shields.io/github/downloads/nkmswot/php-calendar/total.svg)]()
+# PHP Calendar
+PHP Annual Calendar Script (Tested wih PHP 7.4)
 
 [LIVE DEMO](https://8subjects.com/php-calendar-script/)
 
